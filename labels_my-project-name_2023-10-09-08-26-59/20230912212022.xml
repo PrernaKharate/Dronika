@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20230912212022.jpg</filename>
+	<path>/my-project-name/20230912212022.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>84</ymin>
+			<xmax>306</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>
