@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_20231017_2323030.jpg</filename>
+	<path>/my-project-name/IMG_20231017_2323030.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>6144</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Scissors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1306</xmin>
+			<ymin>547</ymin>
+			<xmax>5037</xmax>
+			<ymax>3184</ymax>
+		</bndbox>
+	</object>
+</annotation>
