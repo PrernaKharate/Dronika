@@ -1,0 +1,6 @@
+import ultralytics
+from ultralytics import YOLO
+from ultralytics.models.yolo.detect.predict import DetectionPredictor
+import cv2
+model = YOLO("yolov8s.pt")
+ results = model.predict(source="0", stream=True , conf=0.4, save=True) 
